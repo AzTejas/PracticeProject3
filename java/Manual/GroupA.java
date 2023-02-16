@@ -9,3 +9,9 @@ public class GroupA {
         System.out.println("RTM");
     }
 }
+
+class GroupB{
+    public static void main(String[] args) {
+        System.out.println("Testing");
+    }
+}
